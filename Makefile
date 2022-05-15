@@ -1,5 +1,5 @@
-# Copyright 2020 StarFive #
-# SPDX-License-Identifier: Apache-2.0 #
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2020 StarFiveTech, Inc.
 
 EMPTY  :=
 SPACE  := $(EMPTY) $(EMPTY)
