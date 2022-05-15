@@ -103,6 +103,7 @@ CXXFLAGS += -ffunction-sections -fdata-sections
 CCASFLAGS += --specs=nano.specs
 CFLAGS    += --specs=nano.specs
 CXXFLAGS  += --specs=nano.specs
+LDFLAGS   += --specs=nano.specs
 # DDR speed config for c code
 CFLAGS += -DDDR_SPEED=$(DDR_SPEED)
 
